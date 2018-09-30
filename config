@@ -1,0 +1,6 @@
+{
+"userlist":"http://172.30.9.206/index.php/facerec/api/list",
+"faceconfig":"http://172.30.9.206/index.php/facerec/api/faceconfig",
+"addsign":"http://172.30.9.206/index.php/facerec/api/addsign",
+"refreshconfigtime":3000000
+}
