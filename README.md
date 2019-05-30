@@ -1,9 +1,7 @@
 # 人脸识别考勤系统
 
 ## 演示
-<video id="video" controls="" preload="none">
-<source id="mp4" src="./video.mp4" type="video/mp4">
-</video>
+[演示视频](https://pan.baidu.com/s/19RRy_hT_Xyv9EZ-_BYDTEA "演示视频")
 
 ## 使用
 ```
