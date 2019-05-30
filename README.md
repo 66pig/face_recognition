@@ -1,5 +1,8 @@
 # 人脸识别考勤系统
 
+## 效果
+![软件运行截图](./screenshot.jpg "运行截图")
+
 ## 演示
 [演示视频](https://pan.baidu.com/s/19RRy_hT_Xyv9EZ-_BYDTEA "演示视频")
 
@@ -23,4 +26,6 @@ Project
 |——— config -- 软件接口配置：包含了1.本地更新打卡数据池的时间间隔（refreshconfigtime）；2.签到接口（addsign）；3.读取人脸识别配置接口（faceconfig）；4.打卡用户数据池（userlist）
 |
 |——— face.py -- 入口文件
+|
+|——— video.mp4 -- 演示视频
 ```
