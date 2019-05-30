@@ -1,5 +1,10 @@
 # 人脸识别考勤系统
 
+## 演示
+<video id="video" controls="" preload="none">
+<source id="mp4" src="./video.mp4" type="video/mp4">
+</video>
+
 ## 使用
 ```
 python3 face.py
